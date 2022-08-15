@@ -10,6 +10,7 @@ class LengthDemo
         Console.WriteLine("Размерность массива:  ");
         Console.WriteLine(arr.Length);
         if (arr.Length > 2 && arr.Length < 4)
+
         {
             Console.WriteLine("Третье число массива:  ");
             var n = arr[2];
@@ -17,8 +18,11 @@ class LengthDemo
         }
 
 
-        Console.WriteLine("Число не имеет третьего элемента.");
+        else 
+        {
 
+            Console.WriteLine("Число не имеет третьего элемента.");
+        }
 
     }
 

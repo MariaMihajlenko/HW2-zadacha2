@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/chuprinov.d/Desktop/HomeWork2_2/2/2.csproj": {}
+    "/Users/chuprinov.d/Desktop/HOMEWORK2/HomeWork2_2/2/2.csproj": {}
   },
   "projects": {
-    "/Users/chuprinov.d/Desktop/HomeWork2_2/2/2.csproj": {
+    "/Users/chuprinov.d/Desktop/HOMEWORK2/HomeWork2_2/2/2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/chuprinov.d/Desktop/HomeWork2_2/2/2.csproj",
+        "projectUniqueName": "/Users/chuprinov.d/Desktop/HOMEWORK2/HomeWork2_2/2/2.csproj",
         "projectName": "2",
-        "projectPath": "/Users/chuprinov.d/Desktop/HomeWork2_2/2/2.csproj",
+        "projectPath": "/Users/chuprinov.d/Desktop/HOMEWORK2/HomeWork2_2/2/2.csproj",
         "packagesPath": "/Users/chuprinov.d/.nuget/packages/",
-        "outputPath": "/Users/chuprinov.d/Desktop/HomeWork2_2/2/obj/",
+        "outputPath": "/Users/chuprinov.d/Desktop/HOMEWORK2/HomeWork2_2/2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/chuprinov.d/.nuget/NuGet/NuGet.Config"
